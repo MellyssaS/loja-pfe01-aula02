@@ -12,7 +12,7 @@
 <body>
     <header>
         <h1>Loja da Mel</h1>
-        <button>Novo produto</button>
+        <button onclick="cadastro.classList.remove('oculto')">Novo produto</button>
     </header>
 
     <main>
@@ -21,12 +21,15 @@
     <footer>
         <h2>By Mellyssa</h2>
     </footer>
+
     <div id="cadastro" class="modal oculto">
         <div class="janela">
+
             <div>
                 <h3>Cadastro</h3>
-                <button>X</button>
+                <button onclick="window.location.reload()">x</button>
             </div>
+
             <form>
                 <input type="text" name="produto" placeholder="Nome do Produto" required>
                 <input type="text" name="descricao" placeholder="Descrição" required>
