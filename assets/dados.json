@@ -1,0 +1,117 @@
+[
+    {
+        "id":1,
+        "produto":"Boné",
+        "descricao":"Boné Preto",
+        "preco":25.9,
+        "imagem":"https://acdn-us.mitiendanube.com/stores/001/139/541/products/efaaddr-0e6d51ee368b27db2f17130248262596-1024-1024.jpg"
+    },
+
+    {
+        "id":2,
+        "produto":"Boné",
+        "descricao":"Boné Quiksilver",
+        "preco":29.9,
+        "imagem":"https://decathlonpro.vtexassets.com/arquivos/ids/83486285/16946103364893.jpg?v=638362008430330000"
+    },
+
+
+    {
+        "id":3,
+        "produto":"Boné",
+        "descricao":"Boné Preto e Branco",
+        "preco":39.9,
+        "imagem":"https://artwalk.vtexassets.com/arquivos/ids/438515/IL328-0-001-1.jpg?v=638289390035900000"
+    },
+
+
+
+    {
+        "id":4,
+        "produto":"Boné",
+        "descricao":"Boné branco",
+        "preco":23.9,
+        "imagem":"https://images.tcdn.com.br/img/img_prod/769517/bone_lacoste_logo_grande_26637_1_da4414eee6bfd1b3e9b0cd97815e6bf7.jpg"
+    },
+
+
+
+    {
+        "id":5,
+        "produto":"Boné",
+        "descricao":"Boné Hornets",
+        "preco":27.9,
+        "imagem":"https://static.rockcity.com.br/public/rockcity/imagens/produtos/149a97668e6e4189bbd41b39efdb33fe.jpg"
+    },
+
+
+
+    {
+        "id":6,
+        "produto":"Boné",
+        "descricao":"Boné Vermelho",
+        "preco": 22.9,
+        "imagem":"https://media.gettyimages.com/id/118358120/pt/foto/vermelho-bon%C3%A9-de-basebol.jpg?s=612x612&w=gi&k=20&c=H6HDwgVwR8FBwV-hL5m4R2l-JC7auuVm9mHkapBeA2o="
+    },
+
+
+
+
+    {
+        "id":7,
+        "produto":"Camisa",
+        "descricao":"Camisa Polo",
+        "preco":51.9,
+        "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoM9rtdSlCcs5oB1ALfQ7BY3bmJXuxPesntg&s"
+    },
+
+
+
+    {
+        "id":8,
+        "produto":"Camisa",
+        "descricao":"Camisa Polo Branca e Vermelho",
+        "preco":49.9,
+        "imagem":"https://www.calitta.com/3692-large_default/camisa-polo-esporte-masculina-social-de-verao-elegante-casual-brasao.jpg"
+    },
+
+
+
+    {
+        "id":9,
+        "produto":"Camisa",
+        "descricao":"Camisa Polo Laranja",
+        "preco":47.9,
+        "imagem":"https://alphamodasocial.com.br/shop/wp-content/uploads/2021/09/camisa-camiseta-polo-algodao-personalizada-uniformes-alpha-unforrmes-empresas-branca-laranja.jpg"
+    },
+
+
+
+    {
+        "id":10,
+        "produto":"Camisa",
+        "descricao":"Camisa Polo Preto e Verde",
+        "preco":48.9,
+        "imagem":"https://cdn.awsli.com.br/2500x2500/2541/2541450/produto/261555579/cpz-0004f-fh9ff3pkt0.png"
+    },
+
+
+
+    {
+        "id":11,
+        "produto":"Camisa-Time",
+        "descricao":"Camisa do Romario",
+        "preco": 120.2,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGTX5g39qmYiGm1V14n9fmPAlQTwg_AOdxg&s"
+    },
+
+
+
+    {
+        "id":12,
+        "produto":"Camisa-Time",
+        "descricao":"Camisa Kaka",
+        "preco":130.3,
+        "imagem":"https://n9sportlife.com.br/cdn/shop/files/camisa-selecao-brasileira-amarela-2002-kaka-penta_png.png?v=1734659541"
+    }
+]

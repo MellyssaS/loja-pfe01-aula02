@@ -4,6 +4,15 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+:root{
+    --c1:#330000;
+    --c2:#cc5500;
+    --c3:#ffffff;
+    --c4:#fff9eb;
+    --t1:rgba(0,0,0,0,3);
+    --t2:rgba(0,0,0,0.7);
+}
+
 body{
     width: 100vw;
     height: 100vh;
@@ -11,4 +20,14 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
+}
+
+header, footer{
+    background-color: var(--c1);
+    color: var(--c4);
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
