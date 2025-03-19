@@ -82,7 +82,7 @@ main {
     }
 }
 
-.modal{
+.modal {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -93,8 +93,8 @@ main {
     background-color: var(--t2);
 }
 
-.janela{
-    width: fit-content;
+.janela {
+    width: 40%;
     height: fit-content;
     background-color: var(--c4);
     box-shadow: 0 0 5px var(--t1);
@@ -102,7 +102,6 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     gap: 10px;
 
     & div {
@@ -112,6 +111,7 @@ main {
     }
 
     & button {
+        width: fit-content;
         background-color: var(--c3);
         border: none;
         padding: 5px 10px;
@@ -122,11 +122,12 @@ main {
     }
 
     & form {
+        width: 100%;
         display: flex;
         flex-direction: column;
+        align-items: center;
         gap: 10px;
     }
-
 }
 
 input{
@@ -135,10 +136,15 @@ input{
     border-radius: 5px;
     box-shadow: 0 0 5px var(--t2);
     font-weight: bold;
+    width: 95%;
 }
 
 .oculto{
     display: none;
-    
 }
 
+@media screen and (max-width: 770px){
+    .janela{
+        min-width: 90%;
+    }
+}
